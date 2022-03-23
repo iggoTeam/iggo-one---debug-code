@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include <Wire.h>
-#include "iggo_tp51.h"
+#include "tp51.h"
 #define POWER PD5
 
 iggo_tp51 tp51;
