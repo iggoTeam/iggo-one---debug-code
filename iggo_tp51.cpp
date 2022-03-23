@@ -25,7 +25,7 @@ void setup()
         Serial.println("unknow");
             break;
     }
-    p51.setResolution(14) // where num = 14,12,13,11-bits, default is 14
+    tp51.setResolution(14) // where num = 14,12,13,11-bits, default is 14
 }
 void loop()
 {
